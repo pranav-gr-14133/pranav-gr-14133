@@ -9,13 +9,4 @@ I'm just an ordinary software engineer.
 - 🐧 I’m a big fan of open source.
 - 😄 I believe every bug has a story to tell.
 
-<!--
-You can add more sections here, such as:
-- 🌱 What you’re currently learning
-- 🔭 What you’re working on
-- 🤔 What you’re looking for help with
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
-
-Thanks for visiting my profile!
+- 📫 Reach me @pranav.gr@zohocorp.com
